@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PikikiT
+- 👀 I’m interested in Programming and making custom things
+- 🌱 I’m currently learning Java
